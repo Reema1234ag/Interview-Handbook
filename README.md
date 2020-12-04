@@ -1,5 +1,6 @@
 # Interview-Handbook
 15 Aug 2020- Project tittle submission
+
 19 Aug 2020- Project discussion with mentor
 
 Whenever you’re applying for your first job or moving from one management role to another, job interviews are always difficult. That’s why we are creating the Interview Handbook, our comprehensive guide to help you with every step of the interview process.
