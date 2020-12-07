@@ -124,6 +124,11 @@ a i
     font-size: large;
     
 }
+.content a:hover{
+    text-decoration: underline white;
+
+    
+}
 
 .content h1,h2{
     text-align:center;
