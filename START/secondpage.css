@@ -12,7 +12,7 @@ body{
 .bar{
 	height: 5px;
 	width: 100%;
-	background-color: #b81568;
+	background-color:  rgb(2, 59, 2);
 	display: block;
 	border-radius: 5px;
 	transition: 0.3s ease;
@@ -54,7 +54,7 @@ body{
 	width: 0;
 	height: 0;
 	margin: 30px 0 20px 20px;
-	background: radial-gradient(circle,#e94498,#b81568);
+	background: radial-gradient(circle, rgb(2, 71, 2), rgb(2, 59, 2));
 	border-radius: 50%;
 	transition: 0.3s ease;
 	position: fixed;
