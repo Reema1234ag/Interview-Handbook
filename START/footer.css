@@ -32,6 +32,9 @@ footer
 {
     width: 35%;
 }
+.about h2{
+    text-align: left;
+}
 .sec-1 h2{
     font-size: 18px;
     text-transform: uppercase;
@@ -86,7 +89,7 @@ i{
 {
     display: inline-block;
     padding: 10px 25px;
-    background-color:red;
+    background-color:rgb(3, 82, 3);
     color: white;
     margin-left:10px ;
     border-radius: 15px;
@@ -94,7 +97,7 @@ i{
 }
 .sec-2 a:hover
 {
-    background-color: orange;
+    background-color:rgb(99, 190, 99);
     color: black;
 }
 .sec-3
@@ -166,7 +169,7 @@ i{
     position: absolute;
     right: 0;
     bottom: -10px;
-    background-color: yellow;
+    background-color: rgb(3, 105, 3);
     transition: all .3s;
 }
 .sec-4 p:hover::after{
